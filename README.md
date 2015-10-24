@@ -8,17 +8,24 @@ https://github.com/sivel/speedtest-cli
 How to use Speedtest CLI
 
 # Install Speedtest CLI
+```
 pip install speedtest-cli
+```
 
 # Help
+```
 speedtest-cli -h
+```
 
 # Server List
+```
 speedtest-cli --list
+```
 
 # Run a Speed Test using the server number 1652
+```
 speedtest-cli --server 1652
-
+```
 
 
 # 
