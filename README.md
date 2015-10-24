@@ -1,4 +1,4 @@
-# angry-bee-agent
+# Angry Bee Agent
 Angry Bee Agent Collector is a simple program to collect your network data.
 
 To collect data we are using a open source software called Speedtest-CLI. 
