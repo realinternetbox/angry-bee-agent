@@ -29,5 +29,5 @@ speedtest-cli --server 1652
 
 ### Links:
 
-https://pypi.python.org/pypi/speedtest-cli/
-http://c.speedtest.net/speedtest-servers-static.php
+https://pypi.python.org/pypi/speedtest-cli/<BR>
+http://c.speedtest.net/speedtest-servers-static.php<BR>
