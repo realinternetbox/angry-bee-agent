@@ -3,6 +3,11 @@ Angry Bee Agent Collector is a simple daemon program to collect your network dat
 
 To collect data we are using a open source software called Speedtest-CLI. 
 
+# How to Use Angry Bee Agent
+```
+sh angry-bee-agent.sh > output-500samples.bee
+```
+
 https://github.com/sivel/speedtest-cli 
 
 How to use Speedtest CLI
