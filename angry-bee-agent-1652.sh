@@ -1,7 +1,7 @@
 #code_server = 1652
 #sleep_time = 30
 
-for i in {1..2}
+for i in {1..30}
 do
    echo "angry-bee-agent started"
    NOW=$(date +"%m-%d-%Y %r")

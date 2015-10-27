@@ -32,6 +32,28 @@ speedtest-cli --list
 speedtest-cli --server 1652
 ```
 
+### Crontab Mac OS X
+```
+crontab -e
+```
+```
+crontab -l
+```
+```
+tail -1000f /var/mail/caiomsouza
+ 
+``` 
+
+```
+# Every 5 minutos
+*/5 * * * * /Users/caiomsouza/git/github.com/realinternetbox/angry-bee-agent/commit-logs.sh
+
+```
+
+
+
+
+
 ### Links:
 
 https://pypi.python.org/pypi/speedtest-cli/<BR>
