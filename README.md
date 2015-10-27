@@ -50,11 +50,16 @@ tail -1000f /var/mail/caiomsouza
 
 ```
 
-
-
+### How to make a file (e.g. a .sh script) executable
+```
+chmod +x filename.sh
+```
 
 
 ### Links:
 
 https://pypi.python.org/pypi/speedtest-cli/<BR>
 http://c.speedtest.net/speedtest-servers-static.php<BR>
+http://ludovicrousseau.blogspot.com.es/2015/02/using-cron-on-mac-os-x.html<BR>
+http://www.thegeekstuff.com/2011/07/cron-every-5-minutes/<BR>
+http://askubuntu.com/questions/229589/how-to-make-a-file-e-g-a-sh-script-executable-so-it-can-be-ran-from-termina<BR>
